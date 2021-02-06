@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LaughtersHundredImage.exe" size="806360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LaughtersHundredImage.exe" size="811992">
       <assemblyIdentity name="LaughtersHundredImage" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MnCA40chE+AE/ttKncEhszvuahnLee6VLle4027Bf74=</dsig:DigestValue>
+        <dsig:DigestValue>MK27UKBX2pEZmgaynMghKkgpWtLotPlIXZSitvFuOtk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
